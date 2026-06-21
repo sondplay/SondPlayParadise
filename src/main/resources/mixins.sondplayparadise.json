@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.sondplay.paradise.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinOreSpawnAI",
+    "MixinOreSpawnOnUpdate",
+    "MixinAquaticItemDespawn",
+    "MixinEventHandler",
+    "MixinEventBus",
+    "MixinMorphState"
+  ],
+  "refmap": "mixins.sondplayparadise.refmap.json"
+}

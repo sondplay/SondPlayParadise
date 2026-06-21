@@ -1,0 +1,11 @@
+[{
+  "modid": "sondplayparadise",
+  "name": "$ond'Play Paradise",
+  "description": "All-in-one runtime performance fix for OreSpawn, SuperHeroes Unlimited, NEI, and cascading worldgen. Applies ASM and Mixin patches without modifying other mod jars.",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "https://github.com/sondplay/SondPlayParadise",
+  "authorList": ["$ond'Play"],
+  "credits": "Patches originally developed as suspatch + orespawntweaks",
+  "logoFile": "assets/sondplayparadise/logo.png"
+}]
